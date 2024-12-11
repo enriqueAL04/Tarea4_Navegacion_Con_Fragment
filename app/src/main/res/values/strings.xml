@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarea 4 – Navegación con Fragments</string>
+    <string name="elemento_1">Elemento 1</string>
+    <string name="elemento_2">Elemento 2</string>
+    <string name="elemento_3">Elemento 3</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="rojo">Rojo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Soy_rojo">Soy rojo</string>
+    <string name="soy_azul">Soy azul</string>
+    <string name="soy_verde">Soy verde</string>
+</resources>
